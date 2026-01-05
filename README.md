@@ -2,7 +2,7 @@
 - 🧳 I'm a Google Cloud Certified Professional Cloud (Developer, DevOps Engineer & Architect), AWS Certified {(Developer, Solutions Architect) Associate and DevOps Engineer Professional and AI Practitioner} and Microsoft Certified: GitHub Actions and HashiCorp Certified: Terraform Associate. Also I am a CNCF Kubestronaut - Kubernetes expert (CKA|CKAD|KCNA|KSCA|CKS).
 - 🌱 I’m currently preparing for LFCS certification to become an CNCF Golden Kubestronaut.
 - I'm interested in Agentic AI.
-- Ask me about anything related to Python, Ansible, Terraform, Linux, Shell scripting, Git, GitHub Actions, Cloud (AWS, GCP, Azure), Docker, Podman, Kubernetes, OpenShift, Cilium, Istio, Kyverno, Backstage, GitOps, Argo, Prometheus, OpenTelemetry.
+- Ask me about anything related to Programming(Python), Linux, Shell scripting, Git, GitHub Actions, Cloud (AWS, GCP, Azure), Ansible, Terraform, Containerization (Docker, Podman), Container Orchestration (Kubernetes, OpenShift), Service Mesh (Cilium, Istio), Kyverno, Backstage, GitOps, Argo, Observability (Prometheus, OpenTelemetry).
 - 📫 Reach me @ v.sivakumar.mca@gmail.com
 
 <!---
