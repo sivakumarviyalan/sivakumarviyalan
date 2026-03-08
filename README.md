@@ -1,8 +1,20 @@
 - 👋 Hi, I’m Sivakumar Viyalan
-- 🧳 I'm a Google Cloud Certified Professional Cloud (Developer, DevOps Engineer & Architect), AWS Certified {(Developer, Solutions Architect) Associate and DevOps Engineer Professional and AI Practitioner} and Microsoft Certified: GitHub Actions and HashiCorp Certified: Terraform Associate. Also I am a CNCF Kubestronaut - Kubernetes expert (CKA|CKAD|KCNA|KSCA|CKS), Linux Foundation Certified Systems Administrator, Cilium Certified Associate (CCA), Istio Certified Associate (ICA), Kyverno Certified Associate (KCA), Backstage Certified Associate (BCA), Cloud Native certified Platform Engineering Associate (CNPA), Certified Argo Project Associate (CAPA), Prometheus Certified Associate (PCA) and OpenTelemetry Certified Associate (OTCA).
+
+- 🧳 I'm a Google Cloud Certified Professional Cloud (Developer, DevOps Engineer & Architect), AWS Certified {(Developer, Solutions Architect) Associate and DevOps Engineer Professional and AI Practitioner} and Microsoft Certified: GitHub Actions and HashiCorp Certified: Terraform Associate.
+
+- 🎯I have officially achieved Golden Kubestronaut status from The Linux Foundation 👩‍🚀🚀
+Proud and honored to be among only ~400 Golden Kubestronauts worldwide - a recognition for completing all 14 CNCF certifications + LFCS.
+This journey has been an incredible learning experience into the full cloud native ecosystem:
+✅Kubernetes Core: CKS, CKA, CKAD, KCNA, KCSA
+✅Linux Foundation: LFCS
+✅Service Mesh & Networking: ICA (Istio), CCA (Cilium)
+✅GitOps & CI/CD: CGOA, CAPA (Argo)
+✅Policy Enforcement & IDP - DX: KCA (Kyverno), CBA (Backstage)
+✅Observability & Engineering: PCA (Prometheus), OTCA (OpenTelemetry), CNPA (Platform Engineering)
+
 - 🌱 I’m currently preparing for CKA renewal.
 - I'm interested in Agentic AI.
-- Ask me about anything related to Programming(Python), Linux, Shell scripting, Git, GitHub Actions, Cloud (AWS, GCP, Azure), Ansible, Terraform, Containerization (Docker, Podman), Container Orchestration (Kubernetes, OpenShift), Service Mesh (Cilium, Istio), Policy Engine (Kyverno), IDP (Backstage), GitOps (Argo CD/Rollouts/Workflows/Events), Observability (Prometheus, OpenTelemetry).
+
 - 📫 Reach me @ v.sivakumar.mca@gmail.com
 
 <!---
