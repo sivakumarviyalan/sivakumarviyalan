@@ -12,8 +12,8 @@ This journey has been an incredible learning experience into the full cloud nati
 ✅Policy Enforcement & IDP - DX: KCA (Kyverno), CBA (Backstage)
 ✅Observability & Engineering: PCA (Prometheus), OTCA (OpenTelemetry), CNPA (Platform Engineering)
 
-- 🌱 I’m currently preparing for CKA renewal.
-- I'm interested in Agentic AI.
+- 🌱 I’m currently preparing for **Introduction to agent skills course from Anthropic**.
+- I'm interested in GenAI/LLM application development and Agentic AI.
 
 - 📫 Reach me @ v.sivakumar.mca@gmail.com
 
