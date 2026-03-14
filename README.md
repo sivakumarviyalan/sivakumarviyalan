@@ -13,7 +13,7 @@ This journey has been an incredible learning experience into the full cloud nati
 ✅Observability & Engineering: PCA (Prometheus), OTCA (OpenTelemetry), CNPA (Platform Engineering)
 
 - 🌱 I’m currently preparing for **Introduction to agent skills course from Anthropic**.
-- I'm interested in GenAI/LLM application development and Agentic AI.
+- I'm exploring Agentic AI and interested in designing intelligent decision-making systems and GenAI/LLM application development.
 
 - 📫 Reach me @ v.sivakumar.mca@gmail.com
 
